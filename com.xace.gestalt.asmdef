@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.xacce.gestalt",
+  "rootNamespace": "",
+  "references": [
+    "Unity.Entities",
+    "Unity.Collections",
+    "Unity.Entities.Hybrid",
+    "com.trove.common",
+    "com.trove.polymorphicstructs"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
